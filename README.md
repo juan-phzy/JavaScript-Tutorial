@@ -102,3 +102,11 @@ This document will evolve with the team’s learning needs and advancements in t
 For questions, contributions, or suggestions, please contact the project lead:
 
 Juan Hernandez - jp.hernandez.yz@gmail.com
+
+
+`
+
+npm install -g nodemon
+npm install -g ts-node
+
+`
